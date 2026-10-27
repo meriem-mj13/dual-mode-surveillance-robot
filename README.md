@@ -8,10 +8,9 @@
 |---|---|
 | Student | Meriem Medjber |
 | Specialty | Robotics and Intelligent Systems |
-| Module | Personal Professional Project (Projet Professionnel Personnel), 2026-2027 |
+| Module | Projet Professionnel Personnel |
 | Date | 27 October 2026 |
 
-PDF version: [Cahier des charges (PDF)](docs/Cahier_des_Charges_Dual_Mode_Surveillance_Robot.pdf)
 
 ## Contents
 
